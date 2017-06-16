@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment1.params=e
+comment1.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment2.params=e
+comment2.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment3.params=
+comment3.target=void\ incrementNumberCollected()
+comment4.params=x
+comment4.target=void\ setNumberCollected(int)
+comment5.params=
+comment5.target=mainFrame()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=
+comment7.target=void\ run()
+comment8.params=
+comment8.target=void\ stop()
+numComments=9
